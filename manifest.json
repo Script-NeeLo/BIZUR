@@ -4,10 +4,11 @@
   "description": "Социальная сеть для друзей",
   "start_url": "./",
   "scope": "./",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#1a1a1a",
   "theme_color": "#1a1a1a",
   "orientation": "portrait",
+  "prefer_related_applications": false,
   "icons": [
     {
       "src": "./icon.png",
